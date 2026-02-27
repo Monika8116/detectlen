@@ -1,0 +1,5 @@
+{
+  "name": "DefectLens AI",
+  "description": "Smartphone-based industrial defect detection using Gemini AI for real-time quality control and inspection.",
+  "requestFramePermissions": ["camera"]
+}
